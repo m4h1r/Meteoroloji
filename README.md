@@ -4,4 +4,4 @@ Meteoroloji verilerini Selenium kütüphanesi ile çektiğim Python betiği.
 
 ENG
 # Meteorology
-The Python script I took with the meteorological data.
+The Python script which I took meteorological data with Selenium lib.
